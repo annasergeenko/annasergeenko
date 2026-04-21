@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on bioinformatics projects
-- 🌱 I’m a PhD student in AI and Robotics
-- 👯 I’m looking to collaborate with everybody:)
 
 <!--
 **annasergeenko/annasergeenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
